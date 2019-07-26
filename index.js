@@ -62,10 +62,10 @@ function init() {
     buildMenu();
 }
 
-const chapters = ['Селекторы', 'График', 'Гео-данные'];
+const chapters = ['Селекторы', 'График', 'Данные', 'Гео-данные'];
 const links = [];
 
-links.push(new Link('//jsfiddle.net/hlops/d8e9kuv1/0/embedded/js,result/', 'Enter', 0));
+links.push(new Link('//jsfiddle.net/hlops/d8e9kuv1/0/embedded/', 'Enter', 0));
 links.push(new Link('//jsfiddle.net/hlops/d8e9kuv1/1/embedded/js,result/', 'Enter после Enter', 0));
 links.push(new Link('//jsfiddle.net/hlops/d8e9kuv1/6/embedded/js,result/', 'Обновление без Enter', 0));
 links.push(new Link('//jsfiddle.net/hlops/d8e9kuv1/2/embedded/js,result/', 'Exit', 0));
@@ -77,9 +77,12 @@ links.push(new Link('//jsfiddle.net/hlops/87skyf1t/0/embedded/', 'SVG', 1));
 links.push(new Link('//jsfiddle.net/hlops/87skyf1t/1/embedded/js,result/', 'Добавим данных', 1));
 links.push(new Link('//jsfiddle.net/hlops/87skyf1t/4/embedded/js,result/', 'Масштабирование', 1));
 links.push(new Link('//jsfiddle.net/hlops/87skyf1t/5/embedded/js,result/', 'Нарисуем оси', 1));
-links.push(new Link('//jsfiddle.net/hlops/87skyf1t/13/embedded/js,result/', 'viewBox', 1));
-links.push(new Link('//jsfiddle.net/hlops/87skyf1t/14/embedded/js,result/', 'Развернем ось Y', 1));
-links.push(new Link('//jsfiddle.net/hlops/87skyf1t/15/embedded/js,result/', 'Анимация delay', 1));
-links.push(new Link('//jsfiddle.net/hlops/87skyf1t/17/embedded/js,result/', 'Анимация duration + ease', 1));
+links.push(new Link('//jsfiddle.net/hlops/87skyf1t/13/embedded/result,js/', 'viewBox', 1));
+links.push(new Link('//jsfiddle.net/hlops/87skyf1t/14/embedded/result,js/', 'Развернем ось Y', 1));
+links.push(new Link('//jsfiddle.net/hlops/87skyf1t/15/embedded/result,js/', 'Анимация delay', 1));
+links.push(new Link('//jsfiddle.net/hlops/87skyf1t/17/embedded/result,js/', 'Анимация duration & ease', 1));
+links.push(new Link('//jsfiddle.net/hlops/87skyf1t/19/embedded/result,js,css/', 'Цвета', 1));
 
-links.push(new Link('//jsfiddle.net/hlops/tr0xhen6/3/embedded/js,result/', 'Гео-данные', 2));
+links.push(new Link('//jsfiddle.net/hlops/87skyf1t/23/embedded/result,js/', 'Цены на виски', 2));
+
+links.push(new Link('//jsfiddle.net/hlops/tr0xhen6/3/embedded/result,js,html/', 'New York - London', 3));
