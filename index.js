@@ -85,4 +85,4 @@ links.push(new Link('//jsfiddle.net/hlops/87skyf1t/19/embedded/result,js,css/', 
 
 links.push(new Link('//jsfiddle.net/hlops/87skyf1t/23/embedded/result,js/', 'Цены на виски', 2));
 
-links.push(new Link('//jsfiddle.net/hlops/tr0xhen6/3/embedded/result,js,html/', 'New York - London', 3));
+links.push(new Link('//jsfiddle.net/hlops/tr0xhen6/4/embedded/result,js,html/', 'New York - London', 3));
