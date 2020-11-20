@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.arammeem.universallinktest",
+    "package_name": "com.arammeem.android.apps.toyou",
     "sha256_cert_fingerprints":
-    ["2D:AC:85:48:9A:02:B6:DD:95:71:E5:37:C7:13:23:33:05:36:9B:D1:AC:F9:A3:5A:1E:14:8D:BD:61:E5:B8:E3"]
+    ["99:62:06:EE:EE:C5:BD:75:D6:9F:C5:58:F8:95:61:57:FF:A5:AD:F0:26:29:F3:5D:6B:AC:65:F1:A3:6C:91:6D"]
   }
 }]
